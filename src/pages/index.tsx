@@ -19,7 +19,7 @@ export default function HomePage() {
       <Seo />
       <Navbar />
       <Intro breadcrumbs="ZOO LABS FOUNDATION" title="Preserve" comment="The foundation's mission is to protect our planet's precious wildlife biodiversity through research, education, and collaboration with aligned charities."/>
-      <Comment />
+     
       <Principles />
       <Donation />
       <div className='bg-black pt-32'>
